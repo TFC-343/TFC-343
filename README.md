@@ -1,4 +1,4 @@
-Hello, I'm ariel, I like coding (especialy in python).
+Hello, I'm JP, I like coding (especialy in python).
 I am a student studying computer science at university.
 My main interest is game making, and I am currently learning unity and c#.
 
